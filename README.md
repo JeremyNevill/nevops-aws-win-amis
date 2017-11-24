@@ -18,3 +18,6 @@ Simple listing of Windows AMIs on AWS by Region
 * Microsoft Windows Server 2016 Base - ami-e3bb7399
 * Microsoft Windows Server 2012 R2 Base - ami-f6529b8c
 
+## N Cali - us-west-1
+* Microsoft Windows Server 2016 Base - ami-0a41736a
+* Microsoft Windows Server 2012 R2 Base - ami-955c6ef5
